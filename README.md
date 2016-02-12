@@ -1,2 +1,2 @@
 # aipy
-Some AI algorithms
+Some AI algorithms implemented in python.
